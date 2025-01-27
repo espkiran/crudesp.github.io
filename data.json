@@ -1,0 +1,5 @@
+[
+  { "name": "John Doe", "cell": "1234567890", "gender": "Male", "income": "50000" },
+  { "name": "Jane Smith", "cell": "9876543210", "gender": "Female", "income": "60000" }, 
+  // ... more entries
+]
